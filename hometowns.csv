@@ -1,6 +1,6 @@
 Timestamp,Email Address,What's your name?,What is your home country?,"What state or district are you from? If you are from the U.S., please use the 2-letter postal code for your state, e.g., TN for Tennessee, GA for Georgia, etc. If you're not sure what your state's postal code is, please ask me!",What is the name of your hometown?,Longitude,Latitude
 3/18/2025 15:15:35,lampthh0@sewanee.edu,Henry Lampton,United States,GA,Columbus,-84.992,32.4673
-3/18/2025 15:15:43,hedgeah0@sewanee.edu,Hayden,USA,TN,Memphis,90.05,35.14
+3/18/2025 15:15:43,hedgeah0@sewanee.edu,Hayden,USA,TN,Memphis,-90.05,35.14
 3/18/2025 15:16:02,ellisae0@sewanee.edu,Anna Ellison,United States,NC,Charlotte,-80.8401,35.2216
 3/18/2025 15:16:03,vanhojt0@sewanee.edu,Julia Van Hoozer,US,TN,Memphis,-90.0519,35.1486
 3/18/2025 15:16:13,pollars0@sewanee.edu,Rowan Pollard,USA,TN,Nashville,-86.76796,36.174465
@@ -17,7 +17,7 @@ Timestamp,Email Address,What's your name?,What is your home country?,"What state
 3/18/2025 15:16:57,huckahg0@sewanee.edu,Hunter Huckabay,United States of America,TN,Chattanooga,-85.3094,35.0458
 3/18/2025 15:17:04,dakwakr0@sewanee.edu,Khush Dakwala,India,Gujarat,Ahmedabad,72.5714,23.0225
 3/18/2025 15:17:08,mcginmj0@sewanee.edu,Max McGinn,United States,NC,Greensboro,-79.792,36.0726
-3/18/2025 15:17:20,mcmicle0@sewanee.edu,Liam McMichael,Fulton,GA,Johns Creek ,84.1986,34.0289
-3/18/2025 15:17:39,lanegb0@sewanee.edu,Greta Lane,USA,TN,Johnson City,36.31344,-82.35347
+3/18/2025 15:17:20,mcmicle0@sewanee.edu,Liam McMichael,Fulton,GA,Johns Creek ,-84.1986,34.0289
+3/18/2025 15:17:39,lanegb0@sewanee.edu,Greta Lane,USA,TN,Johnson City,-82.35347,36.31344
 3/18/2025 15:17:52,lewiswe0@sewanee.edu,William Lewis ,United States,KY,Louisville,-85.7664,38.2469
-3/18/2025 15:19:42,sladeec1@sewanee.edu,Elizabeth Slade,United States of America,GA,Saint Simons Island,81.3886,31.1596
+3/18/2025 15:19:42,sladeec1@sewanee.edu,Elizabeth Slade,United States of America,GA,Saint Simons Island,-81.3886,31.1596
